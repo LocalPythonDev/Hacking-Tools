@@ -4,18 +4,31 @@
 A toolkit for ethical hackers, by using this program, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 Features:
+
 Basic Automatic Recon
+
 Powerful network stressing tool
+
 Port scanner
+
 Host scanner
+
 Show your wifi password
+
 Ping tester
+
 Links for beginner hackers
+
 Ipconfig
+
 Build in terminal
+
 Fast shutdown command 
+
 Lag your computer (Kind of pointless, but it's fun.)
+
 Intergrated the Cowsay module.
+
 
 Pictures:
 

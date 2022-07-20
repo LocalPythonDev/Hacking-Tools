@@ -1,9 +1,9 @@
-# 🔥 Ethical-Hacking-Toolkit 🚀
+# 🔥 Hacking Tools 🚀
 
 ![Pic1](https://user-images.githubusercontent.com/109667641/180068189-ee0f6580-c9f6-49c5-af2f-0b19eeba489e.JPG)
 A toolkit for ethical hackers, by using this program, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
-Features:
+# Features:
 
 Basic Automatic Recon
 
@@ -30,7 +30,7 @@ Lag your computer (Kind of pointless, but it's fun.)
 Intergrated the Cowsay module.
 
 
-Pictures:
+# Pictures:
 
 ![Pic2](https://user-images.githubusercontent.com/109667641/180069366-8dfe4ffd-8f5e-4918-9f64-76e534ab5d0b.JPG)
 ![Pic3](https://user-images.githubusercontent.com/109667641/180069377-a47de429-1f5f-4cc1-bfa2-5934c9cc2920.JPG)
